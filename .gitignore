@@ -1,0 +1,25 @@
+# mac
+.DS_Store
+**/.DS_Store
+
+# java
+target/
+*.log
+
+# node
+node_modules/
+dist/
+
+# ide
+.idea/
+.vscode/
+*.iml
+
+# office / media (不建议放代码仓库)
+*.xlsx
+*.docx
+*.mov
+*.zip
+
+# temp
+~$*
